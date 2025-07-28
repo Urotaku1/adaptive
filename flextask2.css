@@ -395,8 +395,11 @@ span{
 		background-size:808px;
 		
 	}
-		input[type="nothing3"]{
-		width:390px;
+		input[type="nothing"]{
+		width:260px;
+	}
+	input[type="nothing2"]{
+		width:260px;
 	}
 }
 
