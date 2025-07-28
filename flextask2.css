@@ -396,10 +396,10 @@ span{
 		
 	}
 		input[type="nothing"]{
-		width:260px;
+		width:100%;
 	}
 	input[type="nothing2"]{
-		width:260px;
+		width:100%;
 	}
 }
 
