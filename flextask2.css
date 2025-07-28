@@ -401,6 +401,10 @@ span{
 	input[type="nothing2"]{
 		width:100%;
 	}
+			input[type="nothing3"]{
+		width:430px;
+		margin:8px;
+	}
 }
 
 
