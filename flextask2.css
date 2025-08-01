@@ -407,6 +407,13 @@ span{
 		.form{
 		margin-left:8px;
 	}
+		.form{
+		margin-left:8px;
+	}
+	.epap p{
+		height:100px;
+		flex-direction:column;
+	}
 }
 
 
